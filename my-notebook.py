@@ -1,5 +1,5 @@
 # some other changes f2
 
 
-def main():
+def main() -> None:
     pass 
