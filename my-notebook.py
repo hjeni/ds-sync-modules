@@ -1,4 +1,5 @@
-# Databricks notebook source
-# some changes
+# some other changes f2
 
-a = 1
+
+def main() -> None:
+    pass 
